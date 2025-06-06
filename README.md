@@ -67,9 +67,7 @@ We developed a **3D multiplayer virtual classroom** using Unity that includes:
 ---
 
 ## 📸 Screenshots & Demo
-
-👉 _[Add screenshots or link to demo video here]_  
-📹 **Demo Video:** [Insert YouTube or drive link here]  
+ 
 📁 **GitHub Repository:** [https://github.com/AnnavarapuGanesh/VR-CLASSROOM-MULTIPLAYER](https://github.com/AnnavarapuGanesh/VR-CLASSROOM-MULTIPLAYER)
 
 ---
